@@ -1,5 +1,5 @@
-## La mayoría de proyectos estan medio a acabar.. 
-### Contactad conmigo en @mrketchup14 (DC) 🍅
+## Computer Engineer maker enthusiast
+### Contact me at @mrketchup14 (discord) 🍅
 - 🌱 I’m currently learning GSAP 
 <!--
 **sleepyrazor/sleepyrazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
